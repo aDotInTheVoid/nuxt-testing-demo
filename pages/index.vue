@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <Logo />
+	<com-a/>
       <h1 class="title">
         testing-error
       </h1>
